@@ -9,7 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.KodluyoruzHW1">
-        <activity android:name=".DummyActivity"></activity>
         <activity android:name=".SignInActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
